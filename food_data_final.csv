@@ -1,0 +1,301 @@
+Food,Calories,Protein,Carbs,Fats,Meal,Type,Veg/Non-Veg
+Oatmeal,58,2.5,10,1.4,Breakfast,Base,Veg
+Whole wheat porridge,375,14,78,1,Breakfast,Base,Veg
+Granola,417,8,67,17,Breakfast,Side,Veg
+Muesli,340,10,78,4.9,Breakfast,Base,Veg
+Cornflakes,360,7,86,0.1,Breakfast,Base,Veg
+Rice flakes (Poha),364,6.8,86.2,2,Breakfast,Base,Veg
+Wheat flakes,330,11,60,1.8,Breakfast,Base,Veg
+Barley porridge,310,11.5,65.8,2,Breakfast,Base,Veg
+Millet porridge,180,5,27,2,Breakfast,Base,Veg
+Semolina (Upma),208,6.5,38,4,Breakfast,Base,Veg
+Chia pudding,106,4.6,12.5,4.3,Breakfast,Side,Veg
+Quinoa bowl,143,5,26.3,2.2,Breakfast,Base,Veg
+Cream of wheat,44,1.24,9,0.18,Breakfast,Base,Veg
+Overnight oats,171,8.4,26,4,Breakfast,Base,Veg
+Breakfast rice,135,2.5,28,1.07,Breakfast,Base,Veg
+Scrambled eggs,149,10,2,11,Breakfast,Side,Non-Veg
+Boiled eggs,155,13,1,11,Breakfast,Side,Non-Veg
+Fried eggs,201,13,1,15,Breakfast,Side,Non-Veg
+Poached eggs,144,12.5,1,9.4,Breakfast,Side,Non-Veg
+Omelet,154,11,1,12,Breakfast,Side,Non-Veg
+Scrambled egg sandwich,212,9.5,24.5,8,Breakfast,Base,Non-Veg
+Deviled eggs,201,11.6,1.3,16,Breakfast,Side,Non-Veg
+Egg muffins,166,6.7,24.8,4,Breakfast,Side,Non-Veg
+Shakshuka ( tomato poached eggs),131,6,5,9,Breakfast,Base,Non-Veg
+Breakfast burrito ,202,10.7,11.8,12,Breakfast,Base,Non-Veg
+Bacon,468,34,1.7,35,Breakfast,Side,Non-Veg
+Pork Sausages,287,15,1,25,Breakfast,Side,Non-Veg
+Ham & cheese sandwich,241,14,23,10.6,Breakfast,Base,Veg
+Pancakes,227,6,28,9,Breakfast,Base,Veg
+Tofu scramble,103,7,3,8,Breakfast,Side,Veg
+Toast with jam,293,7.5,56,3.6,Breakfast,Base,Veg
+Peanut butter sandwich,368,13,41,18,Breakfast,Base,Veg
+Avocado toast,184,4,21,12,Breakfast,Base,Veg
+French toast,244,8.5,31,9,Breakfast,Base,Veg
+Banana pancakes,199,5,25,8.6,Breakfast,Base,Veg
+Waffles,310,7.3,49,9.5,Breakfast,Base,Veg
+Crepes,224,8.7,22,11,Breakfast,Base,Veg
+Bagels,257,10,50.5,1.6,Breakfast,Base,Veg
+Croissants,406,8.2,45,21,Breakfast,Base,Veg
+Doughnut,412,5.7,47,23,Breakfast,Base,Veg
+Muffins,305,7.6,43.7,11,Breakfast,Base,Veg
+Scones,353,9,45,15,Breakfast,Base,Veg
+Biscuits/cookies,486,5.5,69,21,Breakfast,Side,Veg
+Cinnamon sweet rolls,372,6.2,50.9,16,Breakfast,Base,Veg
+Banana bread,277,4,47,8.4,Breakfast,Base,Veg
+Idli,135,6,26,0.6,Breakfast,Base,Veg
+Dosa,212,5,43,2,Breakfast,Base,Veg
+Medu vada,309,13.7,42,10,Breakfast,Base,Veg
+Uttapam,214,3.7,30,8.7,Breakfast,Base,Veg
+Plain parantha ,325,6,48,11,Breakfast,Base,Veg
+Chole bhature,142,3.5,17,7,Breakfast,Base,Veg
+Misal pav,223,7,35,6,Breakfast,Base,Veg
+Pav bhaji,107,2,12,6,Breakfast,Base,Veg
+Pesarattu (Green gram dosa),271,12,39,8,Breakfast,Base,Veg
+Vegetable roti,187,6,35,2,Breakfast,Base,Veg
+Thepla,303,6.8,44,12,Breakfast,Base,Veg
+Dhokla,300,14,46,7,Breakfast,Base,Veg
+Kachori,270,10,35,10,Breakfast,Base,Veg
+Litti chokha,144,5,25,3.4,Breakfast,Base,Veg
+Sabudana khichdi,199,3,30,8,Breakfast,Base,Veg
+Fruit salad,57,0.6,13,0.8,Breakfast,Side,Veg
+Banana shake,92,2,21,0.6,Breakfast,Side,Veg
+Fruit yoghurt,94,4.4,19,0.2,Breakfast,Side,Veg
+Fruit toast,297,8.6,57,5,Breakfast,Side,Veg
+Smoothie bowl,70,1,17,0,Breakfast,Base,Veg
+Cottage cheese (Paneer),103,12,2.6,4.5,Breakfast,Side,Veg
+Garlic bread,330,7,46,13,Breakfast,Side,Veg
+Baked banana,127,1.2,33,0.3,Breakfast,Side,Veg
+Buttermilk (Chaas),46,3,4,2,Breakfast,Side,Veg
+Lassi (Sweet/Salted),76,2,12,2,Breakfast,Side,Veg
+Milk & honey bread,261,7,52,2,Breakfast,Side,Veg
+Milkshake,135,3,20,5,Breakfast,Side,Veg
+Fruit parfait,234,2,34,11,Breakfast,Side,Veg
+Ice cream bar with fruits,158,2,25,6,Breakfast,Side,Veg
+Makhana ,356,9.5,77,1,Breakfast,Base,Veg
+Roasted makhana ,348,9,76,0.6,Breakfast,Base,Veg
+Oats upma,172,6,26,5,Breakfast,Base,Veg
+Makhana chips (Evolve),489,6,65,23,Breakfast,Base,Veg
+Cottage cheese with fruit,97,10,4.6,4,Breakfast,Base,Veg
+Roasted mixed nuts,615,15.5,22,56,Breakfast,Base,Veg
+Egg salad,318,9,2,30,Breakfast,Side,Non-Veg
+Lettuce salad with cheese & tomato,101,6,4,7,Breakfast,Base,Veg
+Fruit pie,316,3,42.6,16,Breakfast,Base,Veg
+Moong dal chilla,240,13,37,5,Breakfast,Base,Veg
+Aloo paratha,264,4.7,38,11,Breakfast,Base,Veg
+Dal dhokli,220,8,35,6,Breakfast,Base,Veg
+Mooli paratha,252,4.6,34,11,Breakfast,Side,Veg
+Dal paratha,236,5.5,33,9,Breakfast,Side,Veg
+Besan (Gram Flour) Chilla,269,13,37,8,Breakfast,Base,Veg
+Wheat porridge,93,6,12.6,3,Breakfast,Base,Veg
+Green tea,1,0,0.2,0,Breakfast,Side,Veg
+Regular coffee,1,0.1,0.04,0.02,Breakfast,Side,Veg
+Fruit juice,46,0.4,11,0.1,Breakfast,Side,Veg
+Fruit smoothie drink,80,1,18,0.8,Breakfast,Side,Veg
+ Coconut water,19,0.7,4,0.2,Breakfast,Side,Veg
+ Protein shake,95,16,9,0.1,Breakfast,Side,Veg
+Almond milk,17,0.6,0.5,1,Breakfast,Side,Veg
+Carrot juice,40,0.9,9,0.1,Breakfast,Side,Veg
+Beetroot juice,39,1,9,0.1,Breakfast,Side,Veg
+Tea with lemon,2,0.1,0.4,0,Breakfast,Side,Veg
+ Plain rice with dal,150,5,32,1,Lunch,Base,Veg
+Chicken biryani,250,12,40,10,Lunch,Base,Non Veg
+" Pulao (Vegetable, Peas, Jeera)",200,6,35,5,Lunch,Base,Veg
+ Fried rice ,210,7,38,7,Lunch,Base,Veg
+ Rajma chawal,230,8,42,8,Lunch,Base,Veg
+ Chole chawal,240,9,44,9,Lunch,Base,Veg
+ Khichdi,180,6,30,4,Lunch,Side,Veg
+ Sambhar rice,190,7,32,5,Lunch,Base,Veg
+ Lemon rice,200,6,34,6,Lunch,Base,Veg
+ Curd rice,180,5,30,4,Lunch,Base,Veg
+Chapati with masala curd,220,8,36,8,Lunch,Base,Veg
+Masala dosa,250,9,40,12,Lunch,Base,Veg
+Kadhi chawal,170,6,32,6,Lunch,Base,Veg
+Shahi paneer,300,15,25,20,Lunch,Side,Veg
+Boondi raita,120,5,10,8,Lunch,Side,Veg
+ Roti with sabzi,200,6,34,6,Lunch,Base,Veg
+ Parantha with curd,250,7,40,10,Lunch,Base,Veg
+ Naan with butter chicken,350,20,45,15,Lunch,Base,Non Veg
+Tamarind chutney,150,3,20,5,Lunch,Side,Veg
+ Tandoori roti with dal makhani,250,9,40,7,Lunch,Base,Veg
+ Missi roti with chutney,220,8,35,6,Lunch,Base,Veg
+ Bhature with chole,300,10,45,12,Lunch,Base,Veg
+ Thepla with yogurt,260,9,38,10,Lunch,Base,Veg
+ Litti chokha,280,8,42,10,Lunch,Base,Veg
+Chole Kulche,290,10,46,9,Lunch,Base,Veg
+ Bajra roti with saag,230,7,40,5,Lunch,Base,Veg
+ Phulka with dal tadka,220,8,36,6,Lunch,Base,Veg
+ Pav bhaji,280,7,45,10,Lunch,Side,Veg
+ Akki roti (rice flour roti),210,5,38,6,Lunch,Base,Veg
+ Makki roti with sarson saag,250,8,40,8,Lunch,Base,Veg
+ Fresh vegetables salad,50,2,10,0.5,Lunch,Side,Veg
+Pickles,60,1,6,4,Lunch,Side,Veg
+Buttermilk,40,3,4,1,Lunch,Side,Veg
+Spring rolls,250,6,35,12,Lunch,Side,Veg
+Noodles,300,8,50,8,Lunch,Side,Veg
+Pasta ,280,7,45,10,Lunch,Base,Veg
+Taco salad,270,9,40,12,Lunch,Side,Veg
+ Fruit salad,80,1,18,0.5,Lunch,Side,Veg
+ Coleslaw (Cabbage salad),150,2,15,10,Lunch,Side,Veg
+ Quinoa salad,120,4,20,3,Lunch,Side,Veg
+ Sprouts salad,100,7,18,1,Lunch,Side,Veg
+ Lentil salad,120,8,22,2,Lunch,Side,Veg
+ Falafel with tahini sauce,300,10,25,18,Lunch,Base,Veg
+ Cucumber & yogurt raita,70,3,5,4,Lunch,Side,Veg
+ Beetroot & carrot salad,80,1.5,16,0.5,Lunch,Side,Veg
+ Butter chicken,300,15,10,22,Lunch,Base,Non-Veg
+ Chicken curry with rice,250,12,35,8,Lunch,Base,Non-Veg
+ Mutton curry with naan,350,14,40,18,Lunch,Base,Non-Veg
+ Fish curry with rice,280,15,30,10,Lunch,Base,Non-Veg
+ Egg curry with chapati,250,10,35,8,Lunch,Base,Non-Veg
+ Tandoori chicken,220,25,3,10,Lunch,Base,Non-Veg
+ Chicken kebabs,250,23,5,12,Lunch,Base,Non-Veg
+ Mutton kebabs,300,20,5,18,Lunch,Base,Non-Veg
+ Grilled salmon with vegetables,250,22,8,15,Lunch,Base,Non-Veg
+ Chicken stew,180,18,8,8,Lunch,Base,Non-Veg
+Dahi aloo,150,4,18,7,Lunch,Side,Veg
+Eggplant mash,120,3,15,5,Lunch,Side,Veg
+Okra with curd,100,4,10,4,Lunch,Side,Veg
+Vegetable pulao,200,5,35,6,Lunch,Side,Veg
+Spinach rice,180,4,30,5,Lunch,Base,Veg
+Mango rice,190,3,35,5,Lunch,Base,Veg
+Chapati with aloo methi,210,5,30,8,Lunch,Base,Veg
+Bottle gourd curry,80,2,10,3,Lunch,Side,Veg
+Methi rice,190,4,32,6,Lunch,Base,Veg
+Vegetable khichdi,160,5,28,4,Lunch,Side,Veg
+Masala maggie,450,8,60,20,Lunch,Base,Veg
+Mango chutney,150,1,35,0.5,Lunch,Side,Veg
+Mixed fruit pulao,190,3,35,5,Lunch,Base,Veg
+Chana masala,180,8,25,6,Lunch,Side,Veg
+Tomato curry,120,2,15,5,Lunch,Side,Veg
+Masala khichdi,170,5,30,4,Lunch,Base,Veg
+ Chowmein,280,8,40,10,Lunch,Base,Veg
+Chapati with scrambled eggs,220,10,30,8,Lunch,Base,Non-Veg
+Egg curry,250,10,35,8,Lunch,Side,Non-Veg
+Mixed veg curry,150,4,18,6,Lunch,Side,Veg
+ Grilled cheese sandwich,350,10,35,20,Lunch,Base,Veg
+Chilli paneer,300,15,20,18,Lunch,Side,Veg
+ Chicken sandwich,320,15,35,12,Lunch,Base,Non-Veg
+Tomato uttapam,200,6,30,7,Lunch,Base,Veg
+ Egg mayo sandwich,300,12,30,15,Lunch,Base,Non-Veg
+Onion parantha,250,6,35,10,Lunch,Base,Veg
+ Paneer kathi roll,350,12,40,15,Lunch,Base,Veg
+Veg biryani,200,5,35,6,Lunch,Base,Veg
+ Falafel wrap,300,10,40,12,Lunch,Base,Veg
+ Burrito (Mexican wrap),350,12,45,12,Lunch,Base,Veg
+Pizza,280,10,35,12,Lunch,Base,Veg
+Grilled cheese sandwich,350,10,35,20,Lunch,Base,Veg
+ Burger ,300,12,40,10,Lunch,Base,Veg
+ Hot dog,290,10,30,15,Lunch,Base,Non-Veg
+ Chicken nuggets with fries,350,15,30,20,Lunch,Base,Non-Veg
+Manchurian,280,8,35,12,Lunch,Base,Veg
+Club sandwich,320,12,35,12,Lunch,Base,Veg
+Fresh fruit juice,50,0.5,12,0.1,Lunch,Side,Veg
+Cold coffee,90,3,15,2,Lunch,Side,Veg
+Smoothie,120,3,25,2,Lunch,Side,Veg
+Lemonade,40,0.5,10,0,Lunch,Side,Veg
+Green tea,0,0,0,0,Lunch,Side,Veg
+Iced tea,30,0,8,0,Lunch,Side,Veg
+Soft drinks,90,0,25,0,Lunch,Side,Veg
+Sweet/Salted Lassi,125,4,15,4.5,Lunch,Side,Veg
+Plain rice with dal,146,7,24,2.6,Dinner,Base,Veg
+Jeera rice ,160,2,24,6,Dinner,Base,Veg
+Vegetable biryani,130,3,23,2.5,Dinner,Base,Veg
+Chicken biryani,139,6,19,4,Dinner,Base,Non Veg
+Mutton biryani,141,6,19,4,Dinner,Base,Non Veg
+Matar pulao,115,3,21,2,Dinner,Base,Veg
+Lemon rice,146,3,31,0.5,Dinner,Base,Veg
+Tamarind rice,150,3,27,3,Dinner,Base,Veg
+Sambhar rice,90,3,16,2,Dinner,Base,Veg
+Curd rice,130,5.7,18,4,Dinner,Base,Veg
+Curry rice,153,5,25.5,4,Dinner,Base,Veg
+Fried rice ,168,6,21,6,Dinner,Base,Veg
+Sushi with vegetables,145,3,31.6,0.2,Dinner,Base,Veg
+Cheese risotto,174,7,21.6,6.4,Dinner,Base,Veg
+Tomato soup,42,1.2,7,1.2,Dinner,Side,Veg
+Chapati,170,6,32,1.5,Dinner,Base,Veg
+Dal makhani,181,6.7,20,8.7,Dinner,Side,Veg
+Lachha parantha ,268,4.4,39,10,Dinner,Base,Veg
+Roti with chicken curry,215.5,9,24,9,Dinner,Base,Non Veg
+Dal tadka,130,6,16,5.4,Dinner,Side,Veg
+Dal palak,116,6.5,17,3,Dinner,Side,Veg
+Methi thepla with pickles,379,10,51,15,Dinner,Base,Veg
+Dinner rolls,300,8,50,7,Dinner,Side,Veg
+Moong dal dosa,181,7,31,3.5,Dinner,Base,Veg
+Khichdi,116,4,23,1,Dinner,Base,Veg
+Egg fried rice,140,4.6,19.6,4.5,Dinner,Base,Non Veg
+Tandoori roti,283,11,58.5,2,Dinner,Base,Veg
+Chicken curry,124,11,5,6.6,Dinner,Side,Non Veg
+Egg dinner rolls,307,9.5,52,6,Dinner,Side,Non Veg
+Dal vada,230,5,16,17,Dinner,Side,Veg
+Moong dal halwa,98,4,12,4,Dinner,Side,Veg
+Paneer dosa,204,8,33,5.4,Dinner,Base,Veg
+Chana dal ,160,10,26,2,Dinner,Base,Veg
+Sabudana khichdi,199,2,30,8,Dinner,Base,Veg
+Vegetable curry,85,2.6,12,3,Dinner,Side,Veg
+Rice with Vegetables,99,2.5,19,1,Dinner,Base,Veg
+Vegetables & rice wrap sandwich,164,4,25,5.4,Dinner,Base,Veg
+Mashed potato,100,2,16,3.5,Dinner,Side,Veg
+Fried potatoes,125,2.4,22,3,Dinner,Side,Veg
+Egg biryani,136,6,16,5,Dinner,Base,Non Veg
+Fish biryani,118,7.6,12.4,4,Dinner,Base,Non Veg
+Fish curry,100,12,2,4.5,Dinner,Side,Non Veg
+Egg dosa,219,11,25,8.6,Dinner,Base,Non Veg
+Macaroni,157,6,30.6,1,Dinner,Base,Veg
+Penne pasta,157,6,30.6,1,Dinner,Base,Veg
+Pasta with meat sauce,129,8,13,5,Dinner,Base,Non Veg
+Roasted cauliflower,48,1.5,3.6,3.6,Dinner,Side,Veg
+Mixed salad greens,17,1.5,3,0.2,Dinner,Side,Veg
+Vegetable salad,16,1,3,0.07,Dinner,Side,Veg
+Falafel,333,13,32,18,Dinner,Side,Veg
+Avocado & cucumber salad,106,1,7,9,Dinner,Side,Veg
+Hummus,177,5,20,8.5,Dinner,Side,Veg
+Broccoli salad,206,2,13,17,Dinner,Side,Veg
+Quinoa salad,155,6,21,5.5,Dinner,Side,Veg
+Lettuce salad with tomato,17,0.8,3.6,0.1,Dinner,Side,Veg
+Cooked lentils,165,8,19,7,Dinner,Side,Veg
+Macaroni or Pasta salad,202,4,23,10.6,Dinner,Base,Veg
+Chicken leg,230,26,0,13,Dinner,Base,Non Veg
+Grilled fish ,109,22.6,0.3,1,Dinner,Base,Non Veg
+Grilled chicken breast,195,29.5,0,8,Dinner,Base,Non Veg
+Pasta with vegetables,125,4.5,23,1.4,Dinner,Base,Veg
+Whole wheat spaghetti,123,5,26,0.5,Dinner,Base,Veg
+Lentil soup,75,4,11,2,Dinner,Side,Veg
+Pasta with pesto sauce,315,9,23,21,Dinner,Base,Veg
+Baked ziti (Cheesy pasta bake),156,9.5,14,6.6,Dinner,Base,Veg
+Lasagna with meat,163,10,17,6,Dinner,Base,Non Veg
+Meatless lasagna,147,8,19,4.4,Dinner,Base,Veg
+Macaroni or noodles with cheese,203,8,21.4,9.4,Dinner,Base,Veg
+Whole wheat noodles,120,5,23.4,1,Dinner,Base,Veg
+Stir-fried Vegetables,75,4.5,5.2,4,Dinner,Side,Veg
+Pad Thai (Thai stir-fried noodles),170,6,22.4,6,Dinner,Base,Veg
+Cauliflower fried rice,79,5,6,4,Dinner,Base,Veg
+Cheese pizza with Vegetables,230,9,29,8.5,Dinner,Base,Veg
+Potato french fries,274,3.4,35.6,14,Dinner,Side,Veg
+Vegetable macaroni,116,4,24,0.1,Dinner,Base,Veg
+ Grilled cheese sandwich,350,11,33.5,19,Dinner,Base,Veg
+ Chicken sandwich,219,18,23,5.6,Dinner,Base,Non Veg
+Fried whole wheat puri,296,7.5,47,9.4,Dinner,Base,Veg
+Fried egg sandwich,235,10.4,27,9,Dinner,Base,Non Veg
+" BLT sandwich (Bacon, Lettuce, Tomato)",210,7,21,10.6,Dinner,Base,Non Veg
+Cheese roll,305,9,48,8.5,Dinner,Side,Veg
+ Chicken shawarma ,133,9,19.6,1.6,Dinner,Base,Non Veg
+ Falafel wrap,250,8,31,11,Dinner,Base,Veg
+Quesadilla with meat and cheese,324,17,20,19,Dinner,Base,Non Veg
+Baked or broiled crab,136,19,0.1,6,Dinner,Base,Non Veg
+ Chicken nuggets ,297,15.5,16,19,Dinner,Side,Non Veg
+Chicken pasta,143,8.6,17.6,4,Dinner,Base,Non Veg
+Beef curry,184,11.6,6,13,Dinner,Side,Non Veg
+Baked beans,151,5.5,21,5,Dinner,Side,Veg
+Sweet potato fries ,165,2,20,9,Dinner,Side,Veg
+Fruit juice,46,0.4,11,0.1,Breakfast,Side,Veg
+Milk,50,3,5,2,Dinner,Side,Veg
+Latte coffee,33,2,3,1.3,Dinner,Side,Veg
+Almond milk,17,0.6,0.5,1.5,Dinner,Side,Veg
+Fruit smoothie drink,80,1,18,0.8,Dinner,Side,Veg
+Turmeric milk,86,3.6,6,5,Dinner,Side,Veg
+ Green tea,1,0,0.2,0,Dinner,Side,Veg
+Vanilla shake,148,3,19.5,6.5,Dinner,Side,Veg
+ Milkshake,135,3,20,5,Dinner,Side,Veg
+Hot cocoa milk,77,3.5,10.6,2,Dinner,Side,Veg
