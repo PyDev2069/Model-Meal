@@ -1,6 +1,5 @@
 from flask import Flask, request, render_template_string
 import pandas as pd
-import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 
